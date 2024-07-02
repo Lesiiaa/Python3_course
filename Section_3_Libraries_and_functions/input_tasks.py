@@ -5,7 +5,7 @@
 print("Hi! Give me some information so I know more about u!")
 name = input("What's your name? -> ")
 age = int(input("How old are u? -> "))
-colour = input("What is your favorite colour? -> ")
+colour = input("What's your favorite colour? -> ")
 
 print("\n")
 print(f"Hi {name}! Your favorite colour is {colour}.\n\
