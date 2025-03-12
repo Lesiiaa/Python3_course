@@ -28,5 +28,11 @@ print(guest_list)
 guest_list_4 = guest_list_2 & guest_list_3
 print(guest_list_4)
 
+for name, age, sex in guest_list:
+    print("Name: ", name)
+    print("Wiek: ", age)
+    print("Plec: ", sex)
+    print("\n")
+
 
 
